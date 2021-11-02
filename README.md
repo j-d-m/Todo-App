@@ -13,7 +13,7 @@ Language used,
 Styling using CSS. 
 
 ###### Still To Be Compleated ######## 
-!improve styling
+improve styling!
 -color changes
 -setting the whole application to the center of the window/view port
 - when deleting from the backlog change the delete button "X" for example. 
